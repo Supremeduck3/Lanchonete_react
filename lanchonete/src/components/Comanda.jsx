@@ -16,7 +16,7 @@ function Comanda({ pedidos }) {
     <div className={styles.recibo}>
       {<div className={styles.cabecalho}>
         <h2>🧾 Resumo do Pedido</h2>
-        <p>Mesa 04 - Atendente: João</p>
+        <p>Mesa 5 - Atendente: João</p>
       </div>
 }
     </div>
